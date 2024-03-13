@@ -23,7 +23,7 @@
         </div>
         <div class="form-group">
             <label for="">Địa chỉ đơn hàng  </label>
-            <textarea name="ghi_chu" class="form-control" id=""></textarea>
+            <textarea name="dia_chi" class="form-control" id=""></textarea>
         </div>
         <div class="form-group">
             <label for="">Phương thức thanh toán </label>
